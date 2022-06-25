@@ -1,0 +1,29 @@
+{
+    "title": "WWDC22 TuerYeCloisonne",
+    "subtitle": "Feel the charm of Tuer Ye and Cloisonne",
+    "publisherName": "Cyanichord",
+    "feedIdentifier": "io.github.cyanichord",
+    "contactURL": "https://cyanichord.github.io",
+    "formatVersion": "1.0",
+    "documents": [
+        {
+            "title": "WWDC22 TuerYeCloisonne",
+            "overviewSubtitle": "Experience the charm of Tuer Ye and Cloisonne",
+            "description": "A simple jigsaw and coloring game.",
+            "contentIdentifier": "io.github.cyanichord.tueryecloisonne",
+            "contentVersion": "1.0",
+            "url": "https://cyanichord.github.io/TuerYeCloisonne/WWDC22_Cyanichord_Cloisonne.swiftpm",
+            "publishedDate": "2022-06-25T18:00:00+09:00",
+            "lastUpdatedDate": "2022-06-25T18:00:00+09:00",
+            "thumbnailURL": "TuerYeCloisonne/thumbnail.png",
+            "bannerImageURL": "TuerYeCloisonne/banner.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": []
+        }
+    ]
+}
